@@ -6,7 +6,7 @@ const AboutSection:React.FC = function() {
             <div className="flex flex-col justify-center w-10/12 m-auto mt-12 text-center lg:mt-16 items center md:w-4/6 lg:w-1/2">
                 <h1 className="mb-6 text-2xl font-bold text-white md:text-3xl">Hi, i am Anton. Nice to meet you.</h1>
                 <p className="pb-40 text-lg font-normal text-white sm:pb-0">
-                    Since beginning my journey as a freelance designer nearly 10 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
+                    Enthusiastic Junior Web Developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Frontend and Backend. Motivated to learn, grow and excel in Web development.
                 </p>
             </div>
             
